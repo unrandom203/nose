@@ -1,0 +1,10 @@
+body{
+    background-image: url("peakpx.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+}
